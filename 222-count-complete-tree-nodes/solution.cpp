@@ -12,31 +12,26 @@
  */
 class Solution {
 public:
-    // this is recursive at each level spend O(logn) on two heights
-    // and there are total O(logn) levels 
-    // sop total time complexity is O(logn)* O(logn) = O(logn)^2
     int countNodes(TreeNode* root) {
-        if(root == nullptr) return 0;
+        if(root==nullptr) return 0;
         int lh = findLeftHeight(root);
         int rh = findRightHeight(root);
-        if(lh==rh){
-            return (1<<lh)-1;
-        }
+        if(lh==rh) return (1<<lh)-1;
         return 1+countNodes(root->left)+countNodes(root->right);
     }
-    //finding leftheight takes time : O(logn)
+
     int findLeftHeight(TreeNode* node){
         int height=0;
-        while(node){
+        while(node!= nullptr){
             height++;
-            node = node->left;
+            node=node->left;
         }
         return height;
     }
-    //finding right height takes time : O(logn)
-    int findRightHeight(TreeNode*node){
+
+    int findRightHeight(TreeNode* node){
         int height=0;
-        while(node){
+        while(node!= nullptr){
             height++;
             node=node->right;
         }

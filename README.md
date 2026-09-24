@@ -2,7 +2,7 @@
 A collection of my LeetCode solutions in C++ as I learn and practice Data Structures &amp; Algorithms.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 9 (Easy: 4, Medium: 5, Hard: 0)
+Solved: 10 (Easy: 4, Medium: 5, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -15,4 +15,5 @@ Solved: 9 (Easy: 4, Medium: 5, Hard: 0)
 | 118 | [Pascal's Triangle](118-pascals-triangle/) | Easy | 2026-09-24 |
 | 119 | [Pascal's Triangle II](119-pascals-triangle-ii/) | Easy | 2026-09-24 |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](3550-smallest-index-with-digit-sum-equal-to-index/) | Easy | 2026-09-24 |
+| 239 | [Sliding Window Maximum](239-sliding-window-maximum/) | Hard | 2026-09-24 |
 <!-- LEETHUB:TABLE:END -->

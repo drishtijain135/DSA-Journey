@@ -2,7 +2,7 @@
 A collection of my LeetCode solutions in C++ as I learn and practice Data Structures &amp; Algorithms.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 18 (Easy: 7, Medium: 9, Hard: 2)
+Solved: 19 (Easy: 8, Medium: 9, Hard: 2)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -24,4 +24,5 @@ Solved: 18 (Easy: 7, Medium: 9, Hard: 2)
 | 3550 | [Smallest Index With Digit Sum Equal to Index](3550-smallest-index-with-digit-sum-equal-to-index/) | Easy | 2026-09-29 |
 | 69 | [Sqrt(x)](69-sqrtx/) | Easy | 2026-09-29 |
 | 8 | [String to Integer (atoi)](8-string-to-integer-atoi/) | Medium | 2026-09-29 |
+| 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-09-29 |
 <!-- LEETHUB:TABLE:END -->

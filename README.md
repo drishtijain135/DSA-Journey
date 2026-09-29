@@ -2,7 +2,7 @@
 A collection of my LeetCode solutions in C++ as I learn and practice Data Structures &amp; Algorithms.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 19 (Easy: 8, Medium: 9, Hard: 2)
+Solved: 20 (Easy: 9, Medium: 9, Hard: 2)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -25,4 +25,5 @@ Solved: 19 (Easy: 8, Medium: 9, Hard: 2)
 | 69 | [Sqrt(x)](69-sqrtx/) | Easy | 2026-09-29 |
 | 8 | [String to Integer (atoi)](8-string-to-integer-atoi/) | Medium | 2026-09-29 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-09-29 |
+| 27 | [Remove Element](27-remove-element/) | Easy | 2026-09-29 |
 <!-- LEETHUB:TABLE:END -->

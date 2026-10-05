@@ -28,7 +28,7 @@ Solved: 25 (Easy: 11, Medium: 11, Hard: 3)
 | 3550 | [Smallest Index With Digit Sum Equal to Index](3550-smallest-index-with-digit-sum-equal-to-index/) | Easy | 2026-10-05 |
 | 69 | [Sqrt(x)](69-sqrtx/) | Easy | 2026-10-05 |
 | 8 | [String to Integer (atoi)](8-string-to-integer-atoi/) | Medium | 2026-10-05 |
+| 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-05 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-05 |
 | 678 | [Valid Parenthesis String](678-valid-parenthesis-string/) | Medium | 2026-10-05 |
-| 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-05 |
 <!-- LEETHUB:TABLE:END -->

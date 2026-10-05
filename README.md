@@ -2,7 +2,7 @@
 A collection of my LeetCode solutions in C++ as I learn and practice Data Structures &amp; Algorithms.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 27 (Easy: 13, Medium: 11, Hard: 3)
+Solved: 28 (Easy: 13, Medium: 12, Hard: 3)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -10,6 +10,7 @@ Solved: 27 (Easy: 13, Medium: 11, Hard: 3)
 | 94 | [Binary Tree Inorder Traversal](94-binary-tree-inorder-traversal/) | Easy | 2026-10-05 |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium | 2026-10-05 |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | 2026-10-05 |
+| 217 | [Contains Duplicate](217-contains-duplicate/) | Easy | 2026-10-05 |
 | 222 | [Count Complete Tree Nodes](222-count-complete-tree-nodes/) | Medium | 2026-10-05 |
 | 22 | [Generate Parentheses](22-generate-parentheses/) | Medium | 2026-10-05 |
 | 703 | [Kth Largest Element in a Stream](703-kth-largest-element-in-a-stream/) | Easy | 2026-10-05 |
@@ -32,5 +33,5 @@ Solved: 27 (Easy: 13, Medium: 11, Hard: 3)
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-05 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-05 |
 | 678 | [Valid Parenthesis String](678-valid-parenthesis-string/) | Medium | 2026-10-05 |
-| 217 | [Contains Duplicate](217-contains-duplicate/) | Easy | 2026-10-05 |
+| 53 | [Maximum Subarray](53-maximum-subarray/) | Medium | 2026-10-05 |
 <!-- LEETHUB:TABLE:END -->

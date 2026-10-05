@@ -33,7 +33,7 @@ Solved: 30 (Easy: 15, Medium: 12, Hard: 3)
 | 69 | [Sqrt(x)](69-sqrtx/) | Easy | 2026-10-05 |
 | 8 | [String to Integer (atoi)](8-string-to-integer-atoi/) | Medium | 2026-10-05 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-05 |
+| 242 | [Valid Anagram](242-valid-anagram/) | Easy | 2026-10-05 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-05 |
 | 678 | [Valid Parenthesis String](678-valid-parenthesis-string/) | Medium | 2026-10-05 |
-| 242 | [Valid Anagram](242-valid-anagram/) | Easy | 2026-10-05 |
 <!-- LEETHUB:TABLE:END -->

@@ -1,13 +1,13 @@
-// 0 ms | 71.7 MB
+// 3 ms | 71.8 MB
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-        int n = nums.size();
-        int currentSum = nums[0];
-        int maxSum = nums[0];
-        for(int i=1;i<n;i++){
-            currentSum = max(nums[i], currentSum+nums[i]);
-            maxSum = max(maxSum , currentSum);
+        int currentSum = 0;
+        int maxSum = INT_MIN;
+        for(int num:nums){
+            currentSum+=num;
+            maxSum = max(currentSum,maxSum);
+            if(currentSum<0) currentSum=0;
         }
         return maxSum;
     }

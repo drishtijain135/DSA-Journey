@@ -17,6 +17,7 @@ Solved: 29 (Easy: 14, Medium: 12, Hard: 3)
 | 1903 | [Largest Odd Number in String](1903-largest-odd-number-in-string/) | Easy | 2026-10-05 |
 | 32 | [Longest Valid Parentheses](32-longest-valid-parentheses/) | Hard | 2026-10-05 |
 | 236 | [Lowest Common Ancestor of a Binary Tree](236-lowest-common-ancestor-of-a-binary-tree/) | Medium | 2026-10-05 |
+| 169 | [Majority Element](169-majority-element/) | Easy | 2026-10-05 |
 | 1614 | [Maximum Nesting Depth of the Parentheses](1614-maximum-nesting-depth-of-the-parentheses/) | Easy | 2026-10-05 |
 | 53 | [Maximum Subarray](53-maximum-subarray/) | Medium | 2026-10-05 |
 | 23 | [Merge k Sorted Lists](23-merge-k-sorted-lists/) | Hard | 2026-10-05 |
@@ -34,5 +35,4 @@ Solved: 29 (Easy: 14, Medium: 12, Hard: 3)
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-05 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-05 |
 | 678 | [Valid Parenthesis String](678-valid-parenthesis-string/) | Medium | 2026-10-05 |
-| 169 | [Majority Element](169-majority-element/) | Easy | 2026-10-05 |
 <!-- LEETHUB:TABLE:END -->

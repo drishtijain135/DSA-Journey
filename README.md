@@ -2,7 +2,7 @@
 A collection of my LeetCode solutions in C++ as I learn and practice Data Structures &amp; Algorithms.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 25 (Easy: 11, Medium: 11, Hard: 3)
+Solved: 26 (Easy: 12, Medium: 11, Hard: 3)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -31,4 +31,5 @@ Solved: 25 (Easy: 11, Medium: 11, Hard: 3)
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-05 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-05 |
 | 678 | [Valid Parenthesis String](678-valid-parenthesis-string/) | Medium | 2026-10-05 |
+| 121 | [Best Time to Buy and Sell Stock](121-best-time-to-buy-and-sell-stock/) | Easy | 2026-10-05 |
 <!-- LEETHUB:TABLE:END -->

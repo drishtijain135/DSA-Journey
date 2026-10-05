@@ -18,6 +18,7 @@ Solved: 28 (Easy: 13, Medium: 12, Hard: 3)
 | 32 | [Longest Valid Parentheses](32-longest-valid-parentheses/) | Hard | 2026-10-05 |
 | 236 | [Lowest Common Ancestor of a Binary Tree](236-lowest-common-ancestor-of-a-binary-tree/) | Medium | 2026-10-05 |
 | 1614 | [Maximum Nesting Depth of the Parentheses](1614-maximum-nesting-depth-of-the-parentheses/) | Easy | 2026-10-05 |
+| 53 | [Maximum Subarray](53-maximum-subarray/) | Medium | 2026-10-05 |
 | 23 | [Merge k Sorted Lists](23-merge-k-sorted-lists/) | Hard | 2026-10-05 |
 | 1658 | [Minimum Operations to Reduce X to Zero](1658-minimum-operations-to-reduce-x-to-zero/) | Medium | 2026-10-05 |
 | 118 | [Pascal's Triangle](118-pascals-triangle/) | Easy | 2026-10-05 |
@@ -33,5 +34,4 @@ Solved: 28 (Easy: 13, Medium: 12, Hard: 3)
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-05 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-05 |
 | 678 | [Valid Parenthesis String](678-valid-parenthesis-string/) | Medium | 2026-10-05 |
-| 53 | [Maximum Subarray](53-maximum-subarray/) | Medium | 2026-10-05 |
 <!-- LEETHUB:TABLE:END -->

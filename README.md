@@ -2,7 +2,7 @@
 A collection of my LeetCode solutions in C++ as I learn and practice Data Structures &amp; Algorithms.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 29 (Easy: 14, Medium: 12, Hard: 3)
+Solved: 30 (Easy: 15, Medium: 12, Hard: 3)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -35,4 +35,5 @@ Solved: 29 (Easy: 14, Medium: 12, Hard: 3)
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-05 |
 | 20 | [Valid Parentheses](20-valid-parentheses/) | Easy | 2026-10-05 |
 | 678 | [Valid Parenthesis String](678-valid-parenthesis-string/) | Medium | 2026-10-05 |
+| 242 | [Valid Anagram](242-valid-anagram/) | Easy | 2026-10-05 |
 <!-- LEETHUB:TABLE:END -->
